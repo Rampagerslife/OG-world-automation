@@ -1,0 +1,275 @@
+
+================
+Scrap Tables
+================
+
+Weight table [Core: Decomposition NONE_Basic] (total weight 527):
+==========================================================
+39.28% ( 207) Recycling Debris
+37.95% ( 200) Destroy
+10.44% (  55) Dust Item
+11.39% (  60) Keep Item
+ 0.95% (   5) Inferior Scrap
+
+Weight table [Core: Decomposition NONE_Hardened] (total weight 200):
+==========================================================
+20.00% (  40) Recycling Debris
+20.00% (  40) Destroy
+27.50% (  55) Dust Item
+30.00% (  60) Keep Item
+ 2.50% (   5) Inferior Scrap
+
+Weight table [Core: Decomposition NONE_Reinforced] (total weight 152):
+==========================================================
+10.53% (  16) Recycling Debris
+10.53% (  16) Destroy
+17.76% (  27) Dust Item
+57.89% (  88) Keep Item
+ 3.29% (   5) Inferior Scrap
+
+Weight table [Core: Decomposition NONE_Resonant] (total weight 120):
+==========================================================
+10.83% (  13) Dust Item
+85.00% ( 102) Keep Item
+ 4.17% (   5) Inferior Scrap
+
+Weight table [Core: Decomposition NONE_Ethereal] (total weight 1):
+==========================================================
+100.00% (   1) Keep Item
+
+Weight table [Core: Decomposition POOR_Basic] (total weight 527):
+==========================================================
+39.28% ( 207) Recycling Debris
+37.95% ( 200) Destroy
+ 9.49% (  50) Dust Item
+ 9.49% (  50) Keep Item
+ 2.85% (  15) Inferior Scrap
+ 0.95% (   5) Scrap
+
+Weight table [Core: Decomposition POOR_Hardened] (total weight 200):
+==========================================================
+20.00% (  40) Recycling Debris
+20.00% (  40) Destroy
+25.00% (  50) Dust Item
+25.00% (  50) Keep Item
+ 7.50% (  15) Inferior Scrap
+ 2.50% (   5) Scrap
+
+Weight table [Core: Decomposition POOR_Reinforced] (total weight 152):
+==========================================================
+10.53% (  16) Recycling Debris
+10.53% (  16) Destroy
+16.45% (  25) Dust Item
+49.34% (  75) Keep Item
+ 9.87% (  15) Inferior Scrap
+ 3.29% (   5) Scrap
+
+Weight table [Core: Decomposition POOR_Resonant] (total weight 120):
+==========================================================
+10.00% (  12) Dust Item
+73.33% (  88) Keep Item
+12.50% (  15) Inferior Scrap
+ 4.17% (   5) Scrap
+
+Weight table [Core: Decomposition POOR_Ethereal] (total weight 1):
+==========================================================
+100.00% (   1) Keep Item
+
+Weight table [Core: Decomposition STANDARD_Basic] (total weight 527):
+==========================================================
+39.28% ( 207) Recycling Debris
+37.95% ( 200) Destroy
+ 9.49% (  50) Dust Item
+ 9.49% (  50) Keep Item
+ 2.85% (  15) Scrap
+ 0.95% (   5) Superior Scrap
+
+Weight table [Core: Decomposition STANDARD_Hardened] (total weight 200):
+==========================================================
+20.00% (  40) Recycling Debris
+20.00% (  40) Destroy
+25.00% (  50) Dust Item
+25.00% (  50) Keep Item
+ 7.50% (  15) Scrap
+ 2.50% (   5) Superior Scrap
+
+Weight table [Core: Decomposition STANDARD_Reinforced] (total weight 152):
+==========================================================
+10.53% (  16) Recycling Debris
+10.53% (  16) Destroy
+16.45% (  25) Dust Item
+49.34% (  75) Keep Item
+ 9.87% (  15) Scrap
+ 3.29% (   5) Superior Scrap
+
+Weight table [Core: Decomposition STANDARD_Resonant] (total weight 120):
+==========================================================
+10.00% (  12) Dust Item
+73.33% (  88) Keep Item
+12.50% (  15) Scrap
+ 4.17% (   5) Superior Scrap
+
+Weight table [Core: Decomposition STANDARD_Ethereal] (total weight 1):
+==========================================================
+100.00% (   1) Keep Item
+
+Weight table [Core: Decomposition SUPERIOR_Basic] (total weight 537):
+==========================================================
+38.55% ( 207) Recycling Debris
+37.24% ( 200) Destroy
+10.24% (  55) Dust Item
+11.17% (  60) Keep Item
+ 2.79% (  15) Superior Scrap
+
+Weight table [Core: Decomposition SUPERIOR_Hardened] (total weight 210):
+==========================================================
+19.05% (  40) Recycling Debris
+19.05% (  40) Destroy
+26.19% (  55) Dust Item
+28.57% (  60) Keep Item
+ 7.14% (  15) Superior Scrap
+
+Weight table [Core: Decomposition SUPERIOR_Reinforced] (total weight 162):
+==========================================================
+ 9.88% (  16) Recycling Debris
+ 9.88% (  16) Destroy
+16.67% (  27) Dust Item
+54.32% (  88) Keep Item
+ 9.26% (  15) Superior Scrap
+
+Weight table [Core: Decomposition SUPERIOR_Resonant] (total weight 130):
+==========================================================
+10.00% (  13) Dust Item
+78.46% ( 102) Keep Item
+11.54% (  15) Superior Scrap
+
+Weight table [Core: Decomposition SUPERIOR_Ethereal] (total weight 1):
+==========================================================
+100.00% (   1) Keep Item
+
+Weight table [Must Scrap Basic] (total weight 1000):
+==========================================================
+47.50% ( 475) Recycling Debris
+52.00% ( 520) Destroy
+ 0.50% (   5) Inferior Scrap
+
+Weight table [Must Scrap Hardened] (total weight 1000):
+==========================================================
+48.00% ( 480) Recycling Debris
+50.00% ( 500) Destroy
+ 1.50% (  15) Inferior Scrap
+ 0.50% (   5) Scrap
+
+Weight table [Must Scrap Reinforced] (total weight 1000):
+==========================================================
+48.00% ( 480) Recycling Debris
+50.00% ( 500) Destroy
+ 1.50% (  15) Scrap
+ 0.50% (   5) Superior Scrap
+
+Weight table [Must Scrap Resonant] (total weight 1020):
+==========================================================
+48.04% ( 490) Recycling Debris
+50.00% ( 510) Destroy
+ 1.96% (  20) Superior Scrap
+
+==========================
+Scrapbox Use Effect Tables
+==========================
+
+Weight table [Poor Effects] (total weight 1863):
+==========================================================
+17.71% ( 330) No Effect
+ 5.37% ( 100) Drop Item [Grass Block]
+ 5.37% ( 100) Drop Item [Steak] 1-4
+16.10% ( 300) Drop Item [Inferior Scrap] 1-3
+ 8.05% ( 150) Drop Item [Scrap] 1-2
+ 2.68% (  50) Drop Item [Superior Scrap]
+ 0.27% (   5) Drop Item [Diamond]
+ 0.16% (   3) Drop Item [Emerald]
+10.74% ( 200) Experience Orb [7]
+ 2.68% (  50) Experience Orb [15]
+ 0.54% (  10) Experience Orb [30]
+ 2.68% (  50) Enchanted Book [lvl 10]
+16.10% ( 300) Chest Loot [dungeonChest]
+ 8.05% ( 150) Player Potion Effect [random] (duration: 15s; amplifier: 0; no bad: true)
+ 2.68% (  50) SpawnEntity [Bat] 1-4
+ 0.81% (  15) SpawnEntity [Villager]
+
+Weight table [Standard Effects] (total weight 2196):
+==========================================================
+ 9.11% ( 200) No Effect
+ 7.74% ( 170) Drop Item [Inferior Scrap] 1-2
+13.66% ( 300) Drop Item [Scrap] 1-3
+ 7.74% ( 170) Drop Item [Superior Scrap] 1-2
+ 3.01% (  66) Drop Item [Diamond]
+ 1.82% (  40) Drop Item [Emerald]
+ 2.28% (  50) Experience Orb [7]
+ 9.11% ( 200) Experience Orb [15]
+ 2.28% (  50) Experience Orb [30]
+ 2.28% (  50) Enchanted Book [lvl 20]
+ 9.11% ( 200) Chest Loot [dungeonChest]
+13.66% ( 300) Chest Loot [mineshaftCorridor]
+ 6.83% ( 150) Player Potion Effect [random] (duration: 60s; amplifier: 1; no bad: true)
+ 9.11% ( 200) Bonus x2
+ 2.28% (  50) SpawnEntity [Bat] 1-4
+
+Weight table [Superior Effects] (total weight 1970):
+==========================================================
+ 2.54% (  50) No Effect
+ 2.54% (  50) Drop Item [Inferior Scrap]
+ 7.61% ( 150) Drop Item [Scrap] 1-2
+15.23% ( 300) Drop Item [Superior Scrap] 1-3
+ 7.61% ( 150) Drop Item [Diamond]
+ 4.57% (  90) Drop Item [Emerald]
+ 0.51% (  10) Drop Item [Nether Star]
+ 0.51% (  10) Experience Orb [7]
+ 2.54% (  50) Experience Orb [15]
+10.15% ( 200) Experience Orb [30]
+ 2.54% (  50) Enchanted Book [lvl 30]
+10.15% ( 200) Chest Loot [mineshaftCorridor]
+15.23% ( 300) Chest Loot [strongholdCrossing]
+ 7.61% ( 150) Player Potion Effect [random] (duration: 120s; amplifier: 2; no bad: true)
+10.15% ( 200) Bonus x2
+ 0.25% (   5) SpawnEntity [EntityHorse] [{Type:3,Tame:1,Saddle:1}]
+ 0.25% (   5) SpawnEntity [EntityHorse] [{Type:4,Tame:1,Saddle:1}]
+
+
+Weight Table: Pile of Rubble (total weight: 166)
+==========================================================
+ 7.23% (  12) Cobblestone (1-4)
+ 5.42% (   9) Stone (1-2)
+ 4.82% (   8) Coal (1-3)
+ 5.42% (   9) Gravel (1-2)
+ 4.82% (   8) Sand (1-2)
+ 6.02% (  10) Dirt (1-3)
+ 4.22% (   7) Coal (1-1)
+ 4.82% (   8) Bread (1-3)
+ 3.61% (   6) Steak (1-3)
+ 3.01% (   5) Rotten Flesh (1-2)
+ 3.01% (   5) Bone (1-2)
+ 4.82% (   8) Torch (1-8)
+ 3.01% (   5) Iron Ore (1-3)
+ 1.81% (   3) Gold Ore (1-2)
+ 1.81% (   3) Redstone (1-2)
+ 0.60% (   1) Diamond (1-1)
+ 0.60% (   1) Emerald (1-1)
+ 2.41% (   4) TNT (1-1)
+ 2.41% (   4) Iron Pickaxe (1-1)
+ 1.81% (   3) Iron Helmet (1-1)
+ 1.81% (   3) Iron Sword (1-1)
+ 3.01% (   5) Copper Ore (1-3)
+ 3.01% (   5) Tin Ore (1-3)
+ 1.81% (   3) Satchel (1-1)
+ 2.41% (   4) Cooked Meat Ingot (1-2)
+ 2.41% (   4) Rubber Bar (1-2)
+ 1.20% (   2) Plastic Boots (1-1)
+ 3.01% (   5) Inferior Scrap (1-2)
+ 2.41% (   4) Scrap (1-2)
+ 1.20% (   2) Box of Inferior Scrap (1-1)
+ 0.60% (   1) Box of Scrap (1-1)
+ 2.41% (   4) Litter Bag (1-2)
+ 0.60% (   1) §2Soylent Green (1-1)
+ 1.20% (   2) §4Soylent Red (1-1)
+ 1.20% (   2) §eSoylent Yellow (1-1)
+==========================================================
