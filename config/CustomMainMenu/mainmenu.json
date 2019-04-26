@@ -1,0 +1,177 @@
+{
+    "images":
+    {
+		"bar":
+		{
+			"image" : "textures:bar.png",
+			"posX" : 0,
+			"posY" : 0,
+			"width" : 200,
+			"height" : 1000
+		},
+		
+        "title":
+        {
+            "image" : "textures:WA.png",
+            "posX" : 80,
+            "posY" : 5,
+            "width" : 35,
+            "height" : 35,
+            "alignment" : "left"
+        }
+    },
+	
+	"background":
+    {
+         "image" : "",
+        "slideshow":
+        {
+            "images" : ["textures:bar.png"],
+            "displayDuration" : 100,
+            "fadeDuration" : 40
+        }
+    },
+    
+    "buttons":
+    {
+		"changelog":
+		{
+			"text" : "CraftersLand Website",
+			"posX" : 38,
+            "posY" : 182,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+			"action" :
+			{
+				"type" : "openLink",
+				"link" : "http://forum.craftersland.net"
+			}
+		},
+		
+		
+        "singleplayer":
+        {
+            "text" : "Self Automation",
+            "posX" : 38,
+            "posY" : 48,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "World Automation",
+            "posX" : 38,
+            "posY" : 72,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 38,
+            "posY" : 96,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+            "posX" : 38,
+            "posY" : 132,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 38,
+            "posY" : 212,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "Language",
+            "posX" : 38,
+            "posY" : 152,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "texts":
+    {    
+        "forge":
+        {
+            "text" : "#modsloaded# | #modsactive#",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+        "other":
+    {
+       
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["mainmenu:f (1).gif","mainmenu:f (2).gif","mainmenu:f (3).gif","mainmenu:f (4).gif","mainmenu:f (5).gif","mainmenu:f (6).gif","mainmenu:f (7).gif","mainmenu:f (8).gif","mainmenu:f (9).gif","mainmenu:f (10).gif","mainmenu:f (11).gif","mainmenu:f (12).gif","mainmenu:f (13).gif","mainmenu:f (14).gif","mainmenu:f (15).gif","mainmenu:f (16).gif","mainmenu:f (17).gif","mainmenu:f (18).gif","mainmenu:f (19).gif","mainmenu:f (20).gif","mainmenu:f (21).gif","mainmenu:f (22).gif","mainmenu:f (23).gif","mainmenu:f (24).gif","mainmenu:f (25).gif","mainmenu:f (26).gif","mainmenu:f (27).gif","mainmenu:f (28).gif","mainmenu:f (29).gif","mainmenu:f (30).gif","mainmenu:f (31).gif","mainmenu:f (32).gif","mainmenu:f (33).gif","mainmenu:f (34).gif","mainmenu:f (35).gif","mainmenu:f (36).gif","mainmenu:f (38).gif","mainmenu:f (39).gif","mainmenu:f (40).gif","mainmenu:f (41).gif","mainmenu:f (42).gif","mainmenu:f (43).gif","mainmenu:f (44).gif","mainmenu:f (45).gif","mainmenu:f (46).gif","mainmenu:f (48).gif","mainmenu:f (49).gif","mainmenu:f (50).gif","mainmenu:f (51).gif","mainmenu:f (52).gif","mainmenu:f (53).gif","mainmenu:f (54).gif","mainmenu:f (55).gif","mainmenu:f (56).gif","mainmenu:f (57).gif","mainmenu:f (58).gif","mainmenu:f (59).gif","mainmenu:f (60).gif","mainmenu:f (61).gif"],
+                "displayDuration" : 0,
+				"blur" : "true",
+                "fadeDuration" : 1
+            }
+        }
+    }
+}

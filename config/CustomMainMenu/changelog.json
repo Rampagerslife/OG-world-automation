@@ -1,0 +1,162 @@
+{
+    "images":
+    {
+		"bar":
+		{
+			"image" : "textures:bar.png",
+			"posX" : 0,
+			"posY" : 0,
+			"width" : 200,
+			"height" : 1000
+		},
+		
+        "title":
+        {
+            "image" : "textures:WA.png",
+            "posX" : 80,
+            "posY" : 5,
+            "width" : 35,
+            "height" : 35,
+            "alignment" : "left"
+        }
+    },
+    
+    "buttons":
+    {
+		"changelog":
+		{
+			"text" : "asdfasdfasdfasdfasdf",
+			"posX" : 38,
+            "posY" : 182,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+			"action" :
+			{
+				"type" : "openGui",
+				"gui" : "changelog"
+			}
+		},
+		
+		
+        "singleplayer":
+        {
+            "text" : "Self Automation",
+            "posX" : 38,
+            "posY" : 48,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "World Automation",
+            "posX" : 38,
+            "posY" : 72,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 38,
+            "posY" : 96,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+            "posX" : 38,
+            "posY" : 132,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 38,
+            "posY" : 212,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "Language",
+            "posX" : 38,
+            "posY" : 152,
+            "width" : 124,
+            "height" : 20,
+			"texture" : "textures:bar.png",
+			"alignment" : "middle_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "texts":
+    {    
+        "forge":
+        {
+            "text" : "#modsloaded# | #modsactive#",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}
