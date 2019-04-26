@@ -1,0 +1,18 @@
+For Brunyman and anyone else who's interested:
+Version 1.9.5-6 update posted on June 17th, 2016. Key changes in this update:
+	Updates to 11 mods, no significant changes in the updated mods.
+	Fixes requested by community members that have been implemented:
+		#1 Fixed Mekanism Gas Tank missing recipe in v9 - thanks to CL community member zarzour for reporting.
+		#2 Fixed Mekanism Atomic Disassembler missing recipe in v9.
+	
+	Added Railcraft, which massively expands the capabilities of minecarts and rail systems within Minecraft!
+	Added ExtraTic, which should improve compatibility with Tinker's Construct and other mods.
+	Added ThermalCasting, which allows "casting" molten metals from Tinker's Construct in a fluid transposer to blocks, without a casting basin!
+	Removed In-Game Wiki Mod as it wasn't being utilized.
+	
+	For those who use MultiMC or another launcher, copy over the "mods" and "config" folder to update your client.
+	The changelog which goes over the exact changes with this update is included in the zip file for the server. Download it and you'll see the changelog within the zip file. Be sure to download the server zip from the Technic site. As always let me know if you have any questions or problems with this release. Please update as soon as you have the time, the update has already been released on the Technic launcher. Thanks!
+    
+	MyTown2 Protection Updates (available here https://github.com/rmtworks/MyTown2-Protections) drop these into the \config\MyTown\protections folder.
+		#1 Add Railcraft.json
+-rmt
