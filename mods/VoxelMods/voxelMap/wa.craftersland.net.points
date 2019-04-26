@@ -1,0 +1,14 @@
+subworlds:
+oldNorthWorlds:
+name:FLB,x:-2373,z:-4394,y:59,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:House,world:,dimensions:-28#
+name:Foxnation Volcano base,x:-2364,z:-4393,y:109,enabled:true,red:0.003921569,green:0.9647059,blue:0.007843138,suffix:House,world:,dimensions:0#
+name:Spawn,x:214,z:324,y:66,enabled:true,red:0.043137256,green:0.21176471,blue:0.96862745,suffix:World,world:,dimensions:0#
+name:Summit of mt. spawn,x:214,z:324,y:208,enabled:true,red:0.015686275,green:0.1254902,blue:0.95686275,suffix:World,world:,dimensions:0#
+name:Krag's quad copter base,x:-1922,z:-2828,y:111,enabled:true,red:0.003921569,green:0.8352941,blue:0.007843138,suffix:House,world:,dimensions:0#
+name:Dedutch's space station,x:0,z:-2,y:64,enabled:true,red:0.06687021,green:0.8425748,blue:0.017641664,suffix:,world:,dimensions:1340#
+name:summit of dive mountian,x:10,z:-247,y:243,enabled:true,red:0.22745098,green:0.9882353,blue:0.0627451,suffix:,world:,dimensions:1446#
+name:Toxic's base,x:-2365,z:-4182,y:64,enabled:true,red:0.101960786,green:1.0,blue:0.13333334,suffix:,world:,dimensions:0#
+name:Foxnation HQ dig site,x:4801,z:-1670,y:76,enabled:true,red:0.047058824,green:1.0,blue:0.09019608,suffix:Gear,world:,dimensions:0#
+name:jokiller's base,x:-2550,z:-4285,y:64,enabled:true,red:0.19215687,green:0.99215686,blue:0.05882353,suffix:House,world:,dimensions:0#
+name:LLF's base,x:-2235,z:-4335,y:68,enabled:true,red:0.45882353,green:0.99215686,blue:0.13333334,suffix:House,world:,dimensions:0#
+name:Red's base,x:4712,z:-2281,y:69,enabled:true,red:0.16862746,green:0.99607843,blue:0.23529412,suffix:House,world:,dimensions:0#
